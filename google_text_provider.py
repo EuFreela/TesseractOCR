@@ -43,7 +43,7 @@ banner()
 for i in (glob.glob("img/*.png") or glob.glob("img/*.jpg")):
     text = pytesseract.image_to_string(Image.open(i), lang='por')
     
-    print(branco + '====== Texto na Imagem ===================================\n')
+    print(branco + '====== Info ===================================\n')
     print(branco + '--Nome :: '+amarelo+i+'\n')
     print(amarelo + '====== Texto na Imagem ===================================\n')
     print (amarelo + text)
