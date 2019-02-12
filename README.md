@@ -28,5 +28,6 @@ Start:
 python google_text_provider.py
 </pre>
 
+<img src="https://i.postimg.cc/qvvq8D1N/Captura-de-tela-em-2019-02-12-16-07-33.png">
 <img src="https://i.postimg.cc/t4wShw9k/Captura-de-tela-em-2019-02-12-16-03-27.png">
 
