@@ -7,6 +7,7 @@ Biblioteca de reconhecimento ótico de caracteres da Google, Open Source
 Se aplica a imagens em formato tiff com texto puro em uma única coluna, convertendo a saída em um arquivo txt. Não possui mecanismos para reconhecimento de layout, desta forma não é recomendável para textos que possuam imagens, fórmulas ou mais de uma coluna. 
 </p>
 
+<a href="http://monografias.poli.ufrj.br/monografias/monopoli10023622.pdf">Estudo de Caso</a>
 <hr>
 
 ### INSTALL
